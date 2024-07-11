@@ -18,7 +18,7 @@ Objetivos:
 - minimizar lesões por volume de treino e estresse do corpo.
 
 
-## Complemento
+## Complementos
 
 Projeto de design: https://www.figma.com/design/yesI7UgShKdZz3xrnaieri/PUC?node-id=0-1&t=buTFzy6rPij2RblM-0
 
