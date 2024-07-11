@@ -25,7 +25,7 @@ Projeto de design: https://www.figma.com/design/yesI7UgShKdZz3xrnaieri/PUC?node-
 Vídeo de apresentação: 
 
 
-## Como executar o front
+## Como executar
 
 **Primeiro será necessário a execução da API.** No projeto da API você encontra as intruções para a execução.
 
