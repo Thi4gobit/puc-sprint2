@@ -1,4 +1,3 @@
-
 import styles from "./Ballon.module.css"
 
 const Balloon = ({ content, extraClassName1, extraClassName2 }) => {
@@ -10,5 +9,3 @@ const Balloon = ({ content, extraClassName1, extraClassName2 }) => {
 };
 
 export default Balloon;
-
-

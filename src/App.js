@@ -1,7 +1,4 @@
-
-
 import Navbar from '../src/components/Navbar';
-
 import styles from '../src/App.module.css'
 import Workouts from './pages/Workouts/Workouts';
 import Register from './pages/Register/Register';
@@ -33,6 +30,3 @@ function App() {
 }
 
 export default App;
-
-
-

@@ -37,7 +37,9 @@ const Workout = ({data}) => {
                     <Balloon content={<i className={`bi bi-clock-fill`}> | {t}</i>} />
                 </li>
                 <li className='col-3 col-md-2 px-0 d-none d-xl-block'>
-                    <Balloon content={<i className={`bi bi-stopwatch-fill`}> | {pace} min/{turn}{data.activity.unit.unit}</i>} />
+                    <Balloon
+                        content={<i className={`bi bi-stopwatch-fill`}> | {pace} min/{turn}{data.activity.unit.unit}</i>}
+                    />
                 </li>
                 <li className='col-3 col-md-auto px-0 d-none d-xl-block'>
                     <Balloon content={<i className={`bi bi-heart-fill`}> | {data.bpm} bpm</i>} />
@@ -47,7 +49,9 @@ const Workout = ({data}) => {
                 </li>
 
                 <li className="col-12 d-block d-xl-none" style={{ width: `400px` }} onClick={toggleDetails}>
-                    <Balloon content={`${data.date}  -  ${data.activity.name}`} extraClassName1={"effect"} extraClassName2={"justify"} />
+                    <Balloon
+                        content={`${data.date}  -  ${data.activity.name}`} extraClassName1={"effect"} extraClassName2={"justify"}
+                    />
                 </li>
                 {detailsVisible && (
                     <li className={`col-12 d-block d-xl-none ${styles.text}`}>
@@ -59,7 +63,6 @@ const Workout = ({data}) => {
                     </li>
                 )}
             </ul>
-
     );
 }
 
