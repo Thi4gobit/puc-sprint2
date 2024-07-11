@@ -36,36 +36,3 @@ const Workouts = () => {
 };
 
 export default Workouts;
-
-
-
-/*
-
-import { useState } from "react"
-import Workout from '../../components/Workout'
-import ActivityType from '../../components/Filter';
-import styles from './Workouts.module.css';
-
-const database = require('../../database.json');
-
-export default function Workouts() {
-    
-    const [workoutList] = useState(database);
-    const [selectedActivityType, setSelectedActivityType] = useState('All');
-    
-    const filteredWorkouts = selectedActivityType === 'All'
-        ? workoutList
-        : workoutList.filter(workout => workout.activity.name === selectedActivityType);
-
-    return (
-        <div className="container-fluid px-0 ps-md-3">
-            <ActivityType setSelectedActivityType={setSelectedActivityType} />
-            <div className={styles.title}>Workouts: {selectedActivityType}</div>
-            {filteredWorkouts.map((workout) => (
-                <Workout key={workout.id} data={workout} />
-            ))}
-        </div>
-    );
-}
-
-*/
