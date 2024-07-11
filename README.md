@@ -19,6 +19,13 @@ A aplicação é uma ferramenta de registro e resumo de treinos feitos, proporci
 #Sendo assim a aplicação pode maximizar a evolução do praticante fornecendo dados para um bom planejamento de treino, minimizando lesões por volume de treino e estresse do corpo e estagnação na evolução.
 
 
+## Complemento
+
+Projeto de design: https://www.figma.com/design/yesI7UgShKdZz3xrnaieri/PUC?node-id=0-1&t=buTFzy6rPij2RblM-0
+
+Vídeo de apresentação: 
+
+
 ## Como executar o front
 
 **Primeiro será necessário a execução da API.** No projeto da API você encontra as intruções para a execução.
