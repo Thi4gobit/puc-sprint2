@@ -1,4 +1,4 @@
-# Meu Front-end em React
+# Workout App
 
 Este é um projeto para análise da disciplina **Desenvolvimento Front-end Avançado** do curso de **Pós-Graduação em Desenvolvimento Full Stack** da **Pontifícia Universidade Católica do Rio de Janeiro**.
 
