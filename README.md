@@ -22,7 +22,7 @@ Objetivos:
 
 Projeto de design: https://www.figma.com/design/yesI7UgShKdZz3xrnaieri/PUC?node-id=0-1&t=buTFzy6rPij2RblM-0
 
-Vídeo de apresentação: 
+Vídeo de apresentação: https://youtu.be/pmbvH2_iO-g
 
 
 ## Como executar
