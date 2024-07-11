@@ -7,19 +7,15 @@ Este é um projeto para análise da disciplina **Desenvolvimento Front-end Avan�
 
 Projeto de **Front-end** em **React** para usuários que praticam corrida, natação, ciclismo ou qualquer combinação dessas três atividades físicas.
 
+Motivação:
+- incentivar o combate a depressão e aumento na qualidade e espectativa de vida de pessoas através da prática de atividades físicas.
 
-## Motivação
+Utilidades:
+- ferramenta de registro e resumo de treinos, proporcionando dados de volume de treino e performace.
 
-A motivação para esse trabalho é o incentivo ao combate a depressão e aumento na qualidade e espectativa de vida de pessoas através da prática de atividades físicas.
-
-
-## Utilidade
-
-A aplicação é uma ferramenta de registro e resumo de treinos, proporcionando dados de volume de treino e performace.
-
-Principais objetivos:
-- maximizar a evolução do praticante fornecendo dados para um bom planejamento de treino;
-- minimizando lesões por volume de treino e estresse do corpo e estagnação na evolução.
+Objetivos:
+- maximizar a evolução do praticante através de dados para otimizar o planejamento de treino;
+- minimizar lesões por volume de treino e estresse do corpo.
 
 
 ## Complemento
