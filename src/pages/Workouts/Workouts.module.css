@@ -1,0 +1,20 @@
+.workout {
+  background-color: #000;
+  padding: 8px 16px 8px 16px;
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+  margin: 0;
+}
+
+.title {
+  padding-top: 10px;
+  padding-inline: 12px;
+  background-color: #000;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 12px;
+  color: #ccc;
+  text-decoration: none;
+}

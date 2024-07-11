@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container1 {
+    background-color: #1f1f1f;
+    min-height: 80px;
+    padding-bottom: 10px;
+    padding-inline: 10px;
+    align-content: end;
+}
+
+

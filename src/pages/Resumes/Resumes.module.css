@@ -1,0 +1,11 @@
+.title {
+    padding-top: 10px;
+    padding-inline: 12px;
+    background-color: #000;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 12px;
+    color: #ccc;
+    text-decoration: none;
+}

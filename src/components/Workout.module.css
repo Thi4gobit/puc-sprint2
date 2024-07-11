@@ -1,0 +1,14 @@
+.workout {
+    background-color: #000;
+    padding: 8px 16px 4px 16px;
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    margin: 0;
+}
+
+.text {
+    font-size: 14px;
+    color: #ccc;
+    padding-left: 20px;
+}

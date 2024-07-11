@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #000;
+  height: 100%;
+}
+
+.container-fluid, .container-xxl, .row {
+  height: 100%;
+}
+
+.mediaa {
+  height: 100vh;
+}
+
+@media (max-width: 767px) {
+  /* max-width: telas até */
+  /* min-width: telas a partir de */
+  .mediaa {
+    height: 100%;
+  }
+}
