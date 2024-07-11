@@ -15,8 +15,11 @@ A motivação para esse trabalho é o incentivo ao combate a depressão e aument
 
 ## Utilidade
 
-A aplicação é uma ferramenta de registro e resumo de treinos feitos, proporcionando dados de volume de treino e performace capazes de ajudar no planejamento de treinos por meio de um profissional.
-#Sendo assim a aplicação pode maximizar a evolução do praticante fornecendo dados para um bom planejamento de treino, minimizando lesões por volume de treino e estresse do corpo e estagnação na evolução.
+A aplicação é uma ferramenta de registro e resumo de treinos, proporcionando dados de volume de treino e performace.
+
+Principais objetivos:
+- maximizar a evolução do praticante fornecendo dados para um bom planejamento de treino;
+- minimizando lesões por volume de treino e estresse do corpo e estagnação na evolução.
 
 
 ## Complemento
